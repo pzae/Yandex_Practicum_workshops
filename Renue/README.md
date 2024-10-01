@@ -1,4 +1,4 @@
-# Трекинг объектов на конвейерной ленте
+# Модифицирование трекера объектов на конвейерной ленте
 
 - Полный отчёт по проекту можно посмотреть в [report.md](https://github.com/pzae/Yandex_Practicum_workshops/blob/main/Renue/report.md)
 - [Презентация](https://github.com/pzae/Yandex_Practicum_workshops/blob/main/Renue/Presentation_Renue.pdf)
